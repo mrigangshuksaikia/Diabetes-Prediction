@@ -19,3 +19,5 @@ Splitting:
 First, data is divided into two parts using component splitting. In this experiment, data is split based on a ratio for the training set and the prediction set. The training set data is used in the logistic regression component for model training
 
 The following classification model is used - Logistic Regression
+
+For the code please email @mrigangshuksaikia@gmail.com
