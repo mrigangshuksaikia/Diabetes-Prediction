@@ -20,4 +20,4 @@ First, data is divided into two parts using component splitting. In this experim
 
 The following classification model is used - Logistic Regression
 
-For the code please email @mrigangshuksaikia@gmail.com
+For the code : https://colab.research.google.com/drive/1opEggT5TezE_4zIWZAcPJGyi3B0nHat1?usp=sharing
